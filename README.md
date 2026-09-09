@@ -16,7 +16,12 @@ Tonsupa Paraiso Tropical es un portal web desarrollado para una agencia de turis
 * **GitHub Pages:** Despliegue e hosting web público.
 
 ## Capturas del Sitio
-*(Agregar las capturas de pantalla tomadas durante el desarrollo)*
+<img width="939" height="515" alt="image" src="https://github.com/user-attachments/assets/8c4bdc59-c0e0-4ba9-968e-bd146f19ddfd" />
+<img width="937" height="500" alt="image" src="https://github.com/user-attachments/assets/dea77555-8c66-46f1-9cbb-a19e81f304d1" />
+<img width="796" height="498" alt="image" src="https://github.com/user-attachments/assets/d58df5dc-f220-42bc-afb2-615cde6b1cd8" />
+<img width="920" height="497" alt="image" src="https://github.com/user-attachments/assets/713ae635-ed9d-4dd1-a730-b4b3c345cec7" />
+<img width="899" height="482" alt="image" src="https://github.com/user-attachments/assets/459c2990-9700-4200-8b2a-3feaefbab420" />
+<img width="706" height="498" alt="image" src="https://github.com/user-attachments/assets/124d2458-0a54-4e7a-ab01-06ae1d1f93ba" />
 
 ## Enlace del Sitio Publicado
 * **URL Pública:** `https://TU_USUARIO_GITHUB.github.io/examen-final-turismo/`
