@@ -24,5 +24,5 @@ Tonsupa Paraiso Tropical es un portal web desarrollado para una agencia de turis
 <img width="706" height="498" alt="image" src="https://github.com/user-attachments/assets/124d2458-0a54-4e7a-ab01-06ae1d1f93ba" />
 
 ## Enlace del Sitio Publicado
-* **URL Pública:** `https://github.com/dzambranoc18-pixel/examen-final-turismo`
-* **Repositorio:** `https://dzambranoc18-pixel.github.io/examen-final-turismo/` 
+* **URL Pública:** `https://dzambranoc18-pixel.github.io/examen-final-turismo/` 
+* **Repositorio:** `https://github.com/dzambranoc18-pixel/examen-final-turismo` 
